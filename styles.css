@@ -3,7 +3,7 @@ body, html{
 }
 
 #painting {
-    background-color: #fff4db;
+    background-color: purple;
     width: 400px;
     height: 400px;
     margin-top: 30px;
@@ -37,6 +37,8 @@ body, html{
     background-color: black;
 }
 
+
+
 .right {
     float: right; 
 }
@@ -62,6 +64,11 @@ body, html{
     background-color: black;
 }
 
-#divider3 {
 
+#bottomrow {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+   
 }
+
